@@ -1,4 +1,4 @@
-# KAuth-BanknoteClassificationModel
+# Banknote Classification Model using Xception CNN Architecture
 
 An advanced computer vision system built with TensorFlow and Xception architecture to distinguish between genuine and counterfeit banknotes through analysis of security features.
 
