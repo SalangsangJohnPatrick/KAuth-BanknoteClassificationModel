@@ -1,0 +1,1 @@
+# KAuth-BanknoteClassificationModel
