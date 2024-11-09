@@ -1,7 +1,5 @@
 # KAuth-BanknoteClassificationModel
 
-# Banknote Authentication System using Deep Learning 💵
-
 An advanced computer vision system built with TensorFlow and Xception architecture to distinguish between genuine and counterfeit banknotes through analysis of security features.
 
 ## Project Overview
